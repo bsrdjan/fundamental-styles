@@ -969,12 +969,11 @@ exports[`Storyshots Components/Avatar Group Individual Type 1`] = `
         
                
         <span
+          aria-label="Christian Bow"
           class="fd-avatar fd-avatar--s fd-avatar--circle fd-avatar--border fd-avatar--thumbnail"
-          role="presentation"
+          role="img"
           style="background-image: url('/assets/images/avatars/1.svg')"
         />
-        
-            
       </div>
       
         

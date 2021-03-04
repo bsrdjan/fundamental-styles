@@ -144,8 +144,7 @@ export const individualType = () => `<div class="fd-avatar-group fd-avatar-group
     <div class="fd-popover">
         <div class="fd-popover__control">
             <div class="fd-avatar-group__item" tabindex="0" aria-haspopup="true" aria-expanded="false" onclick="onPopoverClick('popover_avatar_4ahzcg');">
-               <span class="fd-avatar fd-avatar--s fd-avatar--circle fd-avatar--border fd-avatar--thumbnail" style="background-image: url('/assets/images/avatars/1.svg')" role="presentation" ></span>
-            </div>
+               <span class="fd-avatar fd-avatar--s fd-avatar--circle fd-avatar--border fd-avatar--thumbnail" style="background-image: url('/assets/images/avatars/1.svg')" role="img" aria-label="Christian Bow"></span></div>
         </div>
         <div class="fd-popover__body" aria-hidden="true" id="popover_avatar_4ahzcg">
             <div class="fd-quick-view">
